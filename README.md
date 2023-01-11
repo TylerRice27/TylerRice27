@@ -30,7 +30,7 @@ Tylerrayrice2@gmail.com
 - :joystick: A Gamer <br>
 - :clapper: TV and Movie Connoisseur <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tylerrice27&show_icons=true&locale=en&layout=compact" alt="tylerrice27" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tylerrice27&show_icons=true&locale=en" alt="tylerrice27" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tylerrice27&show_icons=true&locale=en" alt="tylerrice27" /></p>
 
