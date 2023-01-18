@@ -28,11 +28,7 @@ Tylerrayrice2@gmail.com
 - :supervillain_man: A Superhero Fan <br>
 - :tea: Coffee Addict <br>
 - :joystick: A Gamer <br>
-- :clapper: TV and Movie Connoisseur <br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tylerrice27&show_icons=true&locale=en" alt="tylerrice27" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tylerrice27&show_icons=true&locale=en" alt="tylerrice27" /></p>
+- :clapper: TV and Movie Connoisseur <br>p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tylerrice27&" alt="tylerrice27" /></p>
 
