@@ -7,7 +7,7 @@ I come from a background in the media realm. I graduated from Boise State Univer
 I have about 5 years of experience using various types of video editing software.
 
 <br>
-- :computer: Programming Languages: HTML, Bootstrap, Javascript and Node.js...With more to come <br>
+- :computer: Programming Languages: HTML, CSS, C#/.NET, Javascript, Vue.js, MySQL Bootstrap and Node.js...With more to come <br>
 - :movie_camera: Video Editing Software: Premiere Pro, After Effects and Photoshop
 
 
