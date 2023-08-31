@@ -2,12 +2,15 @@
 
 
 
-My name is Tyler, I am currently a full time student at CodeWorks working on becoming a full stack developer and learning lots of great skills. <br>
+My name is Tyler, I am a graduate of CodeWorks and I am a full stack developer. <br>
 I come from a background in the media realm. I graduated from Boise State University in 2017 with a degree in Communications with an emphasis in Media Production.
 I have about 5 years of experience using various types of video editing software.
+I have a year of software development experience. After graduating CodeWorks I was a Teaching Assistant for CodeWorks for six months were I learned a lot and really enjoyed teaching others and watching them succeed.
+After my time at CodeWorks I worked at Allata, where I was training to use Apache Kafka written in C# programming lanuage.
+I love to learn new thing!
 
 <br>
-- :computer: Programming Languages: HTML, CSS, C#/.NET, Javascript, Vue.js, MySQL, Bootstrap and Node.js...With more to come <br>
+- :computer: Programming Languages: HTML, CSS, C#/.NET, Apache Kafka, Java, Javascript, Vue.js, MySQL, Bootstrap and Node.js...With more to come <br>
 - :movie_camera: Video Editing Software: Premiere Pro, After Effects and Photoshop
 
 
